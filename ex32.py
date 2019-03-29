@@ -2,7 +2,7 @@ the_count ={1,2,3,4,5}
 fruits = {'apples', 'oranges', 'pears', 'apricots'}
 change = {1,'pennies', 2 , 'dimes', 3, 'quarters'}
 
-#this firts kind of for-loop goes through a list
+#this firts kind of for-loop goes through a listjk
 
 
         for number in the_count:
