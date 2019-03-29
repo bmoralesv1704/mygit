@@ -6,7 +6,7 @@ states = {
         'New York': 'NY',
         'Michigan' : 'MI'
 }
-# CREATE A BASIC SET OF STATES AND SOME CITIES IN THEM
+# CREATE A BASIC SET OF STATES AND SOME CITIES IN THEMmm
 crities = {
         'CA': 'San Franciso',
         'MI': 'Detroit'
